@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Badris Rahmatullah
 #### I am Frontend and Data Analyst
-![I am Frontend and Data Analyst](https://www.facebook.com/photo/?fbid=1741334025971484&set=a.343998282371739)
+![I am Frontend and Data Analyst](https://github.com/BadrisRahmatullah/BadrisRahmatullah/blob/main/45694383_1741334032638150_9109087410989301760_n.jpg)
 
 i am learning about Ai, just like Machine Learning, Deep Learning with python, i do something else like design, or Ui/Ux Designer
 

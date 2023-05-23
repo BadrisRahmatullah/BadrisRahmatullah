@@ -8,7 +8,7 @@ What i can do: PYTHON / LARAVEL / TENSORFLOW / HTML / CSS / ADOBE PHOTOSHOP / PH
 
 - 🌱 I’m currently learning Machine Learning and Tensorflow 
 - 👯 I’m looking to collaborate on Team 
-- 🤔 I’m looking for help with Data Warehousing and Statistics
+- 🤔 I’m looking for help with Data visualization and Statistics
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/BadrisRahmatullah)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/badris.namikaze)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/badrisrahmatullah/)  
